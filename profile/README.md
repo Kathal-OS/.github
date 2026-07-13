@@ -90,19 +90,9 @@ KATHAL OS is designed to be a maintainable, extensible, production-grade alterna
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────┐
-│               Applications                   │
-│      (User workloads, deployed services)     │
-├─────────────────────────────────────────────┤
-│               Plugin SDK                      │
-│   (Extensibility layer, marketplace plugins)  │
-├─────────────────────────────────────────────┤
-│                 Services                       │
-│  (Auth, Deploy, Monitor, AI, Networking, etc.)│
-├─────────────────────────────────────────────┤
-│                  Kernel                        │
-│   (Core runtime, orchestration, scheduling)   │
-└─────────────────────────────────────────────┘
+<img width="966" height="568" alt="image" src="https://github.com/user-attachments/assets/f2b00501-d1db-4e76-9015-5795b8e48f50" />
+
+
 ```
 
 </div>
