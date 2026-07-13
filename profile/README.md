@@ -88,11 +88,10 @@ KATHAL OS is designed to be a maintainable, extensible, production-grade alterna
 ## 🏗️ Architecture
 
 <div align="center">
+  
+<img width="2720" height="1600" alt="image" src="https://github.com/user-attachments/assets/78481adb-fa7c-48de-89fc-cc43a698fc78" />
 
 ```
-<img width="966" height="568" alt="image" src="https://github.com/user-attachments/assets/f2b00501-d1db-4e76-9015-5795b8e48f50" />
-
-
 ```
 
 </div>
