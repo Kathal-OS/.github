@@ -3,12 +3,6 @@
 <img src="https://img.shields.io/badge/BakeWeb-KATHAL%20OS-2ea44f?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="KATHAL OS" />
 
 # 🌳 KATHAL OS
-<img width="986" height="538" alt="image" src="https://github.com/user-attachments/assets/6e0ef0fd-6a3b-4fcc-a5f6-2292b2d12ba6" />
-
-### An AI-Native Hosting & Development Operating System
-
-**Built by [BakeWeb](#-built-by) — Open Source Forever**
-
 <p>
 <img src="https://img.shields.io/badge/status-in%20development-yellow?style=flat-square" />
 <img src="https://img.shields.io/badge/license-open--source-blue?style=flat-square" />
@@ -17,6 +11,12 @@
 <img src="https://img.shields.io/badge/docker-native-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" />
 </p>
+
+<img width="986" height="538" alt="image" src="https://github.com/user-attachments/assets/6e0ef0fd-6a3b-4fcc-a5f6-2292b2d12ba6" />
+### An AI-Native Hosting & Development Operating System
+
+**Built by [BakeWeb](#-built-by) — Open Source Forever**
+
 
 <p>
 <a href="https://your-domain.com"><b>Website</b></a> •
@@ -37,7 +37,8 @@
 <br/>
 
 ---
-
+<div align="center">
+  
 ## 📖 Table of Contents
 
 <table>
