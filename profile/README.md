@@ -40,17 +40,36 @@
 
 ## 📖 Table of Contents
 
-- [About](#-about)
-- [Why KATHAL OS](#-why-kathal-os)
-- [Architecture](#-architecture)
-- [Projects](#-projects)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [Community](#-community)
-- [Built By](#-built-by)
-- [License](#-license)
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Overview**
+- 🚀 [About](#-about)
+- 💡 [Why KATHAL OS](#-why-kathal-os)
+- 🏗️ [Architecture](#-architecture)
+- 📦 [Projects](#-projects)
+
+</td>
+<td valign="top" width="33%">
+
+**Build**
+- 🧱 [Tech Stack](#-tech-stack)
+- ⚡ [Getting Started](#-getting-started)
+- 🗺️ [Roadmap](#-roadmap)
+
+</td>
+<td valign="top" width="33%">
+
+**Community**
+- 🤝 [Contributing](#-contributing)
+- 💬 [Community](#-community)
+- ❤️ [Built By](#-built-by)
+- 📄 [License](#-license)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -90,9 +109,6 @@ KATHAL OS is designed to be a maintainable, extensible, production-grade alterna
 <div align="center">
   
 <img width="2720" height="1600" alt="image" src="https://github.com/user-attachments/assets/78481adb-fa7c-48de-89fc-cc43a698fc78" />
-
-```
-```
 
 </div>
 
